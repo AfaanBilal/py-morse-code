@@ -1,7 +1,7 @@
 Morse Code
 ==========
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Morse Code** is a python program that can encode and decode morse code.
